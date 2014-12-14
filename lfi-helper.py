@@ -1,6 +1,8 @@
 #!/usr/bin/python
 import urllib2
+baseURL = ""
 def getBaseURL():
+        global baseURL
         baseURL = raw_input("Please enter the base url you want to start in: ")
         print("You can change the base url any time by typing '!changethebaseurl' at the prompt\n"+\
         "To exit, type '!exitlfihelper'")
